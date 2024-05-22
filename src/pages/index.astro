@@ -1,7 +1,8 @@
 ---
 import ReactComponent from './react-component/react-component.jsx'
 import App from './pdf-reader/PdfReader.tsx'
-import Chat from './chat/Chat.svelte'
+import SvelteComponent from './chat/SvelteComponent.svelte'
+import Chat from './Chat/Chat.svelte'
 ---
 
 <html lang="en">
@@ -19,5 +20,5 @@ import Chat from './chat/Chat.svelte'
 </html>
 
 <ReactComponent client:only="react"/>
-<App client:only="react"/>
-<Chat client:only="svelte">
+<SvelteComponent client:only="svelte" />
+<Chat client:only="svelte" />

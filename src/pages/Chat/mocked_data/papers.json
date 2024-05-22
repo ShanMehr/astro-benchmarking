@@ -1,0 +1,997 @@
+{
+  "papers": [
+    {
+      "arxiv_id": "0704.0001",
+      "submitter": "Pavel Nadolsky",
+      "authors": "C. Bal\\'azs, E. L. Berger, P. M. Nadolsky, C.-P. Yuan",
+      "title": "Calculation of prompt diphoton production cross sections at Tevatron and\n LHC energies",
+      "comments": "37 pages, 15 figures; published version",
+      "journal-ref": "Phys.Rev.D76:013009,2007",
+      "doi": "10.1103/PhysRevD.76.013009",
+      "report-no": "ANL-HEP-PR-07-12",
+      "categories": "hep-ph",
+      "license": null,
+      "summary": " A fully differential calculation in perturbative quantum chromodynamics is\npresented for the production of massive photon pairs at hadron colliders. All\nnext-to-leading order perturbative contributions from quark-antiquark,\ngluon-(anti)quark, and gluon-gluon subprocesses are included, as well as\nall-orders resummation of initial-state gluon radiation valid at\nnext-to-next-to-leading logarithmic accuracy. The regions of phase space is\nspecified in which the calculation is most reliable. Good agreement is\ndemonstrated with data from the Fermilab Tevatron, and predictions are made for\nmore detailed tests with CDF and DO data. Predictions are shown for\ndistributions of various diphoton pairs produced at the energy of the Large Hadron\nCollider (LHC). Distributions of the diphoton pairs from the decay of a Higgs\nboson are contrasted with those produced from QCD processes at the LHC, showing\nthat enhanced sensitivity to the signal can be obtained with judicious\nselection of events.\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 19:18:42 GMT" },
+        { "version": "v2", "created": "Tue, 24 Jul 2007 20:10:27 GMT" }
+      ],
+      "update_date": "2008-11-26",
+      "authors_parsed": [
+        ["Balázs", "C.", ""],
+        ["Berger", "E. L.", ""],
+        ["Nadolsky", "P. M.", ""],
+        ["Yuan", "C. -P.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0024",
+      "submitter": "Mikhail Kostylev",
+      "authors": "A.A. Serga, M. Kostylev, and B. Hillebrands",
+      "title": "Formation of quasi-solitons in transverse confined ferromagnetic film\n media",
+      "comments": "First appeared in Prof. B. Hillebrands' research group Annual Report\n 2005 (http://www.physik.uni-kl.de/w_hilleb/ann05.html); also presented at\n Intermag'2006 Conference: M. Kostylev, A.A. Serga, and B. Hillebrands,\n Digests of International Magnetic Conference, May 8-12, 2006, San Diego, USA,\n FV03 (2006)",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "nlin.PS",
+      "license": null,
+      "summary": " The formation of quasi-2D spin-wave waveforms in longitudinally magnetized\nstripes of ferrimagnetic film was observed by using time- and space-resolved\nBrillouin light scattering technique. In the linear regime it was found that\nthe confinement decreases the amplitude of dynamic magnetization near the\nlateral stripe edges. Thus, the so-called effective dipolar pinning of dynamic\nmagnetization takes place at the edges.\n In the nonlinear regime a new stable spin wave packet propagating along a\nwaveguide structure, for which both transversal instability and interaction\nwith the side walls of the waveguide are important was observed. The\nexperiments and a numerical simulation of the pulse evolution show that the\nshape of the formed waveforms and their behavior are strongly influenced by the\nconfinement.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 11:44:22 GMT" }
+      ],
+      "update_date": "2007-05-30",
+      "authors_parsed": [
+        ["Serga", "A. A.", ""],
+        ["Kostylev", "M.", ""],
+        ["Hillebrands", "B.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0042",
+      "submitter": "Ignazio Licata",
+      "authors": "Ignazio Licata",
+      "title": "General System theory, Like-Quantum Semantics and Fuzzy Sets",
+      "comments": "12 pages,3 figures",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": "Published in Systemics of Emergence. Research and Development, Minati G., Pessa E., Abram M., Springer, 2006, pages 723-734",
+      "categories": "physics.gen-ph quant-ph",
+      "license": null,
+      "summary": " It is outlined the possibility to extend the quantum formalism in relation to the requirements of the general systems theory. It can be done by using a quantum semantics arising from the deep logical structure of quantum theory. It is so possible taking into account the logical openness relationship between observer and system. We are going to show how considering the truth-values of quantum propositions within the context of the fuzzy sets is here more useful for systemics . In conclusion we propose an example of formal quantum coherence.",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 17:28:35 GMT" }
+      ],
+      "update_date": "2010-04-26",
+      "authors_parsed": [["Licata", "Ignazio", ""]]
+    },
+    {
+      "arxiv_id": "0704.0006",
+      "submitter": "Yue Hin Pong",
+      "authors": "Y. H. Pong and C. K. Law",
+      "title": "Bosonic characters of atomic Cooper pairs across resonance",
+      "comments": "6 pages, 4 figures, accepted by PRA",
+      "journal-ref": null,
+      "doi": "10.1103/PhysRevA.75.043613",
+      "report-no": null,
+      "categories": "cond-mat.mes-hall",
+      "license": null,
+      "summary": " We study the two-particle wave function of paired atoms in a Fermi gas with\ntunable interaction strengths controlled by Feshbach resonance. The Cooper pair\nwave function is examined for its bosonic characters, which is quantified by\nthe correction of Bose enhancement factor associated with the creation and\nannihilation composite particle operators. An example is given for a\nthree-dimensional uniform gas. Two definitions of Cooper pair wave function are\nexamined. One of which is chosen to reflect the off-diagonal long range order\n(ODLRO). Another one corresponds to a pair projection of a BCS state. On the\nside with negative scattering length, we found that paired atoms described by\nODLRO are more bosonic than the pair projected definition. It is also found\nthat at $(k_F a)^{-1} \\ge 1$, both definitions give similar results, where more\nthan 90% of the atoms occupy the corresponding molecular condensates.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 04:24:59 GMT" }
+      ],
+      "update_date": "2015-05-13",
+      "authors_parsed": [
+        ["Pong", "Y. H.", ""],
+        ["Law", "C. K.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0007",
+      "submitter": "Alejandro Corichi",
+      "authors": "Alejandro Corichi, Tatjana Vukasinac and Jose A. Zapata",
+      "title": "Polymer Quantum Mechanics and its Continuum Limit",
+      "comments": "16 pages, no figures. Typos corrected to match published version",
+      "journal-ref": "Phys.Rev.D76:044016,2007",
+      "doi": "10.1103/PhysRevD.76.044016",
+      "report-no": "IGPG-07/03-2",
+      "categories": "gr-qc",
+      "license": null,
+      "summary": " A rather non-standard quantum representation of the canonical commutation\nrelations of quantum mechanics systems, known as the polymer representation has\ngained some attention in recent years, due to its possible relation with Planck\nscale physics. In particular, this approach has been followed in a symmetric\nsector of loop quantum gravity known as loop quantum cosmology. Here we explore\ndifferent aspects of the relation between the ordinary Schroedinger theory and\nthe polymer description. The paper has two parts. In the first one, we derive\nthe polymer quantum mechanics starting from the ordinary Schroedinger theory\nand show that the polymer description arises as an appropriate limit. In the\nsecond part we consider the continuum limit of this theory, namely, the reverse\nprocess in which one starts from the discrete theory and tries to recover back\nthe ordinary Schroedinger quantum mechanics. We consider several examples of\ninterest, including the harmonic oscillator, the free particle and a simple\ncosmological model.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 04:27:22 GMT" },
+        { "version": "v2", "created": "Wed, 22 Aug 2007 22:42:11 GMT" }
+      ],
+      "update_date": "2008-11-26",
+      "authors_parsed": [
+        ["Corichi", "Alejandro", ""],
+        ["Vukasinac", "Tatjana", ""],
+        ["Zapata", "Jose A.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0008",
+      "submitter": "Damian Swift",
+      "authors": "Damian C. Swift",
+      "title": "Numerical solution of shock and ramp compression for general material\n properties",
+      "comments": "Minor corrections",
+      "journal-ref": "Journal of Applied Physics, vol 104, 073536 (2008)",
+      "doi": "10.1063/1.2975338",
+      "report-no": "LA-UR-07-2051, LLNL-JRNL-410358",
+      "categories": "cond-mat.mtrl-sci",
+      "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "summary": " A general formulation was developed to represent material models for\napplications in dynamic loading. Numerical methods were devised to calculate\nresponse to shock and ramp compression, and ramp decompression, generalizing\nprevious solutions for scalar equations of state. The numerical methods were\nfound to be flexible and robust, and matched analytic results to a high\naccuracy. The basic ramp and shock solution methods were coupled to solve for\ncomposite deformation paths, such as shock-induced impacts, and shock\ninteractions with a planar interface between different materials. These\ncalculations capture much of the physics of typical material dynamics\nexperiments, without requiring spatially-resolving simulations. Example\ncalculations were made of loading histories in metals, illustrating the effects\nof plastic work on the temperatures induced in quasi-isentropic and\nshock-release experiments, and the effect of a phase transition.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 04:47:20 GMT" },
+        { "version": "v2", "created": "Thu, 10 Apr 2008 08:42:28 GMT" },
+        { "version": "v3", "created": "Tue, 1 Jul 2008 18:54:28 GMT" }
+      ],
+      "update_date": "2009-02-05",
+      "authors_parsed": [["Swift", "Damian C.", ""]]
+    },
+    {
+      "arxiv_id": "0704.0017",
+      "submitter": "Nceba Mhlahlo",
+      "authors": "Nceba Mhlahlo, David H. Buckley, Vikram S. Dhillon, Steven B. Potter,\n Brian Warner and Patric A. Woudt",
+      "title": "Spectroscopic Observations of the Intermediate Polar EX Hydrae in\n Quiescence",
+      "comments": "10 pages, 11 figures (figures 3, 4, 7 and 8 at reduced resolution,\n originals available on request). Accepted for publication in Monthly Notices\n of the Royal Astronomical Society",
+      "journal-ref": "Mon.Not.Roy.Astron.Soc.378:211-220,2007",
+      "doi": "10.1111/j.1365-2966.2007.11762.x",
+      "report-no": null,
+      "categories": "astro-ph",
+      "license": null,
+      "summary": " Results from spectroscopic observations of the Intermediate Polar (IP) EX Hya\nin quiescence during 1991 and 2001 are presented. Spin-modulated radial\nvelocities consistent with an outer disc origin were detected for the first\ntime in an IP. The spin pulsation was modulated with velocities near ~500-600\nkm/s. These velocities are consistent with those of material circulating at the\nouter edge of the accretion disc, suggesting corotation of the accretion\ncurtain with material near the Roche lobe radius. Furthermore, spin Doppler\ntomograms have revealed evidence of the accretion curtain emission extending\nfrom velocities of ~500 km/s to ~1000 km/s. These findings have confirmed the\ntheoretical model predictions of King & Wynn (1999), Belle et al. (2002) and\nNorton et al. (2004) for EX Hya, which predict large accretion curtains that\nextend to a distance close to the Roche lobe radius in this system. Evidence\nfor overflow stream of material falling onto the magnetosphere was observed,\nconfirming the result of Belle et al. (2005) that disc overflow in EX Hya is\npresent during quiescence as well as outburst. It appears that the hbeta and\nhgamma spin radial velocities originated from the rotation of the funnel at the\nouter disc edge, while those of halpha were produced due to the flow of\nmaterial along the field lines far from the white dwarf (narrow component) and\nclose to the white dwarf (broad-base component), in agreement with the\naccretion curtain model.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 07:38:48 GMT" }
+      ],
+      "update_date": "2009-06-23",
+      "authors_parsed": [
+        ["Mhlahlo", "Nceba", ""],
+        ["Buckley", "David H.", ""],
+        [],
+        ["Potter", "Steven B.", ""],
+        ["Warner", "Brian", ""],
+        ["Woudt", "Patric A.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0025",
+      "submitter": "Andrei Mishchenko S",
+      "authors": "A. S. Mishchenko (1 and 2) and N. Nagaosa (1 and 3) ((1) CREST, Japan\n Science and Technology Agency, (2) Russian Research Centre ``Kurchatov\n Institute'', (3) The University of Tokyo)",
+      "title": "Spectroscopic Properties of Polarons in Strongly Correlated Systems by\n Exact Diagrammatic Monte Carlo Method",
+      "comments": "41 pages, 13 figures, in \"Polarons in Advanced Materials\" ed. A. S.\n Alexandrov (Canopus/Springer Publishing, Bristol (2007)), pp. 503-544.",
+      "journal-ref": null,
+      "doi": "10.1007/978-1-4020-6348-0_12",
+      "report-no": null,
+      "categories": "cond-mat.str-el cond-mat.stat-mech",
+      "license": null,
+      "summary": " We present recent advances in understanding of the ground and excited states\nof the electron-phonon coupled systems obtained by novel methods of\nDiagrammatic Monte Carlo and Stochastic Optimization, which enable the\napproximation-free calculation of Matsubara Green function in imaginary times\nand perform unbiased analytic continuation to real frequencies. We present\nexact numeric results on the ground state properties, Lehmann spectral function\nand optical conductivity of different strongly correlated systems: Frohlich\npolaron, Rashba-Pekar exciton-polaron, pseudo Jahn-Teller polaron, exciton, and\ninteracting with phonons hole in the t-J model.\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 12:02:36 GMT" }
+      ],
+      "update_date": "2015-05-13",
+      "authors_parsed": [
+        ["Mishchenko", "A. S.", "", "1 and 2"],
+        ["Nagaosa", "N.", "", "1 and 3"]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0028",
+      "submitter": "P\\'eter E. Frenkel",
+      "authors": "P\\'eter E. Frenkel",
+      "title": "Pfaffians, hafnians and products of real linear functionals",
+      "comments": "10 pages",
+      "journal-ref": "Math. Res. Lett. 15 (2008), no. 2, 351--358",
+      "doi": null,
+      "report-no": null,
+      "categories": "math.CA math.PR",
+      "license": null,
+      "summary": " We prove pfaffian and hafnian versions of Lieb's inequalities on determinants\nand permanents of positive semi-definite matrices. We use the hafnian\ninequality to improve the lower bound of R\\'ev\\'esz and Sarantopoulos on the\nnorm of a product of linear functionals on a real Euclidean space (this subject\nis sometimes called the `real linear polarization constant' problem).\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 15:36:29 GMT" },
+        { "version": "v2", "created": "Tue, 26 Feb 2008 14:40:04 GMT" }
+      ],
+      "update_date": "2014-07-31",
+      "authors_parsed": [["Frenkel", "P\u00e9ter E.", ""]]
+    },
+    {
+      "arxiv_id": "0704.0029",
+      "submitter": "Weizhen Deng",
+      "authors": "Zhan Shu, Xiao-Lin Chen and Wei-Zhen Deng",
+      "title": "Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin\n  Structure within Chiral Quark Model",
+      "comments": null,
+      "journal-ref": "Phys.Rev.D75:094018,2007",
+      "doi": "10.1103/PhysRevD.75.094018",
+      "report-no": null,
+      "categories": "hep-ph",
+      "license": null,
+      "summary": "  In $\\XQM$, a quark can emit Goldstone bosons. The flavor symmetry breaking in\nthe Goldstone boson emission process is used to intepret the nucleon\nflavor-spin structure. In this paper, we study the inner structure of\nconstituent quarks implied in $\\XQM$ caused by the Goldstone boson emission\nprocess in nucleon. From a simplified model Hamiltonian derived from $\\XQM$,\nthe intrinsic wave functions of constituent quarks are determined. Then the\nobtained transition probabilities of the emission of Goldstone boson from a\nquark can give a reasonable interpretation to the flavor symmetry breaking in\nnucleon flavor-spin structure.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 14:10:06 GMT" },
+        { "version": "v2", "created": "Thu, 26 Apr 2007 08:27:20 GMT" }
+      ],
+      "update_date": "2010-04-23",
+      "authors_parsed": [
+        ["Shu", "Zhan", ""],
+        ["Chen", "Xiao-Lin", ""],
+        ["Deng", "Wei-Zhen", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0030",
+      "submitter": "Jim Hague",
+      "authors": "J.P.Hague and N.d'Ambrumenil",
+      "title": "Tuning correlation effects with electron-phonon interactions",
+      "comments": "Reprint to improve access. 13 pages, 6 figures.",
+      "journal-ref": "J. Low. Temp. Phys. Vol. 140 pp77-89 (2005)",
+      "doi": "10.1007/s10909-005-6013-6",
+      "report-no": null,
+      "categories": "cond-mat.str-el",
+      "license": null,
+      "summary": "  We investigate the effect of tuning the phonon energy on the correlation\neffects in models of electron-phonon interactions using DMFT. In the regime\nwhere itinerant electrons, instantaneous electron-phonon driven correlations\nand static distortions compete on similar energy scales, we find several\ninteresting results including (1) A crossover from band to Mott behavior in the\nspectral function, leading to hybrid band/Mott features in the spectral\nfunction for phonon frequencies slightly larger than the band width. (2) Since\nthe optical conductivity depends sensitively on the form of the spectral\nfunction, we show that such a regime should be observable through the low\nfrequency form of the optical conductivity. (3) The resistivity has a double\nkondo peak arrangement\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 14:14:18 GMT" }
+      ],
+      "update_date": "2015-05-13",
+      "authors_parsed": [
+        ["Hague", "J. P.", ""],
+        ["d'Ambrumenil", "N.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0032",
+      "submitter": "Andreu Esteban-Pretel",
+      "authors": "A. Esteban-Pretel, R. Tom\\`as and J. W. F. Valle",
+      "title": "Probing non-standard neutrino interactions with supernova neutrinos",
+      "comments": "21 pages, 12 figures, 17 postscript files",
+      "journal-ref": "Phys.Rev.D76:053001,2007",
+      "doi": "10.1103/PhysRevD.76.053001",
+      "report-no": null,
+      "categories": "hep-ph",
+      "license": null,
+      "summary": "  We analyze the possibility of probing non-standard neutrino interactions\n(NSI, for short) through the detection of neutrinos produced in a future\ngalactic supernova (SN).We consider the effect of NSI on the neutrino\npropagation through the SN envelope within a three-neutrino framework, paying\nspecial attention to the inclusion of NSI-induced resonant conversions, which\nmay take place in the most deleptonised inner layers. We study the possibility\nof detecting NSI effects in a Megaton water Cherenkov detector, either through\nmodulation effects in the $\\bar\\nu_e$ spectrum due to (i) the passage of shock\nwaves through the SN envelope, (ii) the time dependence of the electron\nfraction and (iii) the Earth matter effects; or, finally, through the possible\ndetectability of the neutronization $\\nu_e$ burst. We find that the $\\bar\\nu_e$\nspectrum can exhibit dramatic features due to the internal NSI-induced resonant\nconversion. This occurs for non-universal NSI strengths of a few %, and for\nvery small flavor-changing NSI above a few$\\times 10^{-5}$.\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 18:35:33 GMT" }
+      ],
+      "update_date": "2008-11-26",
+      "authors_parsed": [
+        ["Esteban-Pretel", "A.", ""],
+        ["Tom\u00e0s", "R.", ""],
+        ["Valle", "J. W. F.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0033",
+      "submitter": "Maxim A. Yurkin",
+      "authors": "Maxim A. Yurkin, Valeri P. Maltsev, Alfons G. Hoekstra",
+      "title": "Convergence of the discrete dipole approximation. I. Theoretical\n  analysis",
+      "comments": "23 pages, 5 figures; added several corrections according to the\n  published erratum except for Eq.(6) (it was correct in the original paper)\n  and with additional correction in Eq.(96)\n  [$\\bar{\\mathbf{G}}(...)\\mathbf{P}_i^s -\\bar{\\mathbf{G}}^s(...)\\mathbf{P}_i^p$\n  instead of $(\\bar{\\mathbf{G}}(...) - \\bar{\\mathbf{G}}^s(...))\\mathbf{P}_i^s$]",
+      "journal-ref": "J.Opt.Soc.Am.A 23, 2578-2591 (2006); Erratum: J.Opt.Soc.Am.A 32,\n  2407-2408 (2015)",
+      "doi": "10.1364/JOSAA.23.002578 10.1364/JOSAA.32.002407",
+      "report-no": null,
+      "categories": "physics.optics physics.comp-ph",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "summary": "  We performed a rigorous theoretical convergence analysis of the discrete\ndipole approximation (DDA). We prove that errors in any measured quantity are\nbounded by a sum of a linear and quadratic term in the size of a dipole d, when\nthe latter is in the range of DDA applicability. Moreover, the linear term is\nsignificantly smaller for cubically than for non-cubically shaped scatterers.\nTherefore, for small d errors for cubically shaped particles are much smaller\nthan for non-cubically shaped. The relative importance of the linear term\ndecreases with increasing size, hence convergence of DDA for large enough\nscatterers is quadratic in the common range of d. Extensive numerical\nsimulations were carried out for a wide range of d. Finally we discuss a number\nof new developments in DDA and their consequences for convergence.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 15:34:25 GMT" },
+        { "version": "v2", "created": "Tue, 29 Mar 2022 18:21:31 GMT" }
+      ],
+      "update_date": "2022-03-31",
+      "authors_parsed": [
+        ["Yurkin", "Maxim A.", ""],
+        ["Maltsev", "Valeri P.", ""],
+        ["Hoekstra", "Alfons G.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0034",
+      "submitter": "Vasily Ogryzko V",
+      "authors": "Vasily Ogryzko",
+      "title": "Origin of adaptive mutants: a quantum measurement?",
+      "comments": "5 pages",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "q-bio.PE q-bio.CB quant-ph",
+      "license": null,
+      "summary": "  This is a supplement to the paper arXiv:q-bio/0701050, containing the text of\ncorrespondence sent to Nature in 1990.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 15:36:48 GMT" }
+      ],
+      "update_date": "2007-05-23",
+      "authors_parsed": [["Ogryzko", "Vasily", ""]]
+    },
+    {
+      "arxiv_id": "0704.0035",
+      "submitter": "Maxim A. Yurkin",
+      "authors": "Maxim A. Yurkin, Valeri P. Maltsev, Alfons G. Hoekstra",
+      "title": "Convergence of the discrete dipole approximation. II. An extrapolation\n  technique to increase the accuracy",
+      "comments": "17 pages, 8 figures",
+      "journal-ref": "J.Opt.Soc.Am.A 23(10): 2592-2601 (2006)",
+      "doi": "10.1364/JOSAA.23.002592",
+      "report-no": null,
+      "categories": "physics.optics physics.comp-ph",
+      "license": null,
+      "summary": "  We propose an extrapolation technique that allows accuracy improvement of the\ndiscrete dipole approximation computations. The performance of this technique\nwas studied empirically based on extensive simulations for 5 test cases using\nmany different discretizations. The quality of the extrapolation improves with\nrefining discretization reaching extraordinary performance especially for\ncubically shaped particles. A two order of magnitude decrease of error was\ndemonstrated. We also propose estimates of the extrapolation error, which were\nproven to be reliable. Finally we propose a simple method to directly separate\nshape and discretization errors and illustrated this for one test case.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 15:52:56 GMT" }
+      ],
+      "update_date": "2008-07-29",
+      "authors_parsed": [
+        ["Yurkin", "Maxim A.", ""],
+        ["Maltsev", "Valeri P.", ""],
+        ["Hoekstra", "Alfons G.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0036",
+      "submitter": "Eduardo D. Sontag",
+      "authors": "Liming Wang and Eduardo D. Sontag",
+      "title": "A remark on the number of steady states in a multiple futile cycle",
+      "comments": "Resubmit with new results on the upper bound of the number of steady\n  states. 20 pages, 2 figures, See\n  http://www.math.rutgers.edu/~sontag/PUBDIR/index.html for online preprints\n  and reprints of related work",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "q-bio.QM q-bio.MN",
+      "license": null,
+      "summary": "  The multisite phosphorylation-dephosphorylation cycle is a motif repeatedly\nused in cell signaling. This motif itself can generate a variety of dynamic\nbehaviors like bistability and ultrasensitivity without direct positive\nfeedbacks. In this paper, we study the number of positive steady states of a\ngeneral multisite phosphorylation-dephosphorylation cycle, and how the number\nof positive steady states varies by changing the biological parameters. We show\nanalytically that (1) for some parameter ranges, there are at least n+1 (if n\nis even) or n (if n is odd) steady states; (2) there never are more than 2n-1\nsteady states (in particular, this implies that for n=2, including single\nlevels of MAPK cascades, there are at most three steady states); (3) for\nparameters near the standard Michaelis-Menten quasi-steady state conditions,\nthere are at most n+1 steady states; and (4) for parameters far from the\nstandard Michaelis-Menten quasi-steady state conditions, there is at most one\nsteady state.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 15:55:50 GMT" },
+        { "version": "v2", "created": "Fri, 20 Jul 2007 01:25:10 GMT" }
+      ],
+      "update_date": "2011-11-09",
+      "authors_parsed": [
+        ["Wang", "Liming", ""],
+        ["Sontag", "Eduardo D.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0037",
+      "submitter": "Maxim A. Yurkin",
+      "authors": "Maxim A. Yurkin, Valeri P. Maltsev, Alfons G. Hoekstra",
+      "title": "The discrete dipole approximation for simulation of light scattering by\n  particles much larger than the wavelength",
+      "comments": "13 pages, 10 figures",
+      "journal-ref": "J.Quant.Spectrosc.Radiat.Transf. 106, 546-557 (2007)",
+      "doi": "10.1016/j.jqsrt.2007.01.033",
+      "report-no": null,
+      "categories": "physics.optics physics.comp-ph",
+      "license": null,
+      "summary": "  In this manuscript we investigate the capabilities of the Discrete Dipole\nApproximation (DDA) to simulate scattering from particles that are much larger\nthan the wavelength of the incident light, and describe an optimized publicly\navailable DDA computer program that processes the large number of dipoles\nrequired for such simulations. Numerical simulations of light scattering by\nspheres with size parameters x up to 160 and 40 for refractive index m=1.05 and\n2 respectively are presented and compared with exact results of the Mie theory.\nErrors of both integral and angle-resolved scattering quantities generally\nincrease with m and show no systematic dependence on x. Computational times\nincrease steeply with both x and m, reaching values of more than 2 weeks on a\ncluster of 64 processors. The main distinctive feature of the computer program\nis the ability to parallelize a single DDA simulation over a cluster of\ncomputers, which allows it to simulate light scattering by very large\nparticles, like the ones that are considered in this manuscript. Current\nlimitations and possible ways for improvement are discussed.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 16:06:05 GMT" }
+      ],
+      "update_date": "2007-05-23",
+      "authors_parsed": [
+        ["Yurkin", "Maxim A.", ""],
+        ["Maltsev", "Valeri P.", ""],
+        ["Hoekstra", "Alfons G.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0038",
+      "submitter": "Maxim A. Yurkin",
+      "authors": "Maxim A. Yurkin, Alfons G. Hoekstra",
+      "title": "The discrete dipole approximation: an overview and recent developments",
+      "comments": "36 pages, 1 figure; added several corrections according to the\n  published erratum except for Eq.(5) (it was correct in the original paper)",
+      "journal-ref": "J.Quant.Spectrosc.Radiat.Transf. 106, 558-589 (2007); Erratum:\n  J.Quant.Spectrosc.Radiat.Transf. 171, 82-83 (2016)",
+      "doi": "10.1016/j.jqsrt.2007.01.034 10.1016/j.jqsrt.2015.11.025",
+      "report-no": null,
+      "categories": "physics.optics physics.comp-ph",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "summary": "  We present a review of the discrete dipole approximation (DDA), which is a\ngeneral method to simulate light scattering by arbitrarily shaped particles. We\nput the method in historical context and discuss recent developments, taking\nthe viewpoint of a general framework based on the integral equations for the\nelectric field. We review both the theory of the DDA and its numerical aspects,\nthe latter being of critical importance for any practical application of the\nmethod. Finally, the position of the DDA among other methods of light\nscattering simulation is shown and possible future developments are discussed.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 16:25:01 GMT" },
+        { "version": "v2", "created": "Tue, 29 Mar 2022 17:39:15 GMT" }
+      ],
+      "update_date": "2022-03-30",
+      "authors_parsed": [
+        ["Yurkin", "Maxim A.", ""],
+        ["Hoekstra", "Alfons G.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0039",
+      "submitter": "Jose Antonio Oller",
+      "authors": "Jose A. Oller and Luis Roca",
+      "title": "Scalar radius of the pion and zeros in the form factor",
+      "comments": "18 pages, 3 figures. Some rewriting in the presentation of the\n  results and comments to previous works",
+      "journal-ref": "Phys.Lett.B651:139-146,2007",
+      "doi": "10.1016/j.physletb.2007.06.023",
+      "report-no": null,
+      "categories": "hep-ph hep-lat nucl-th",
+      "license": null,
+      "summary": "  The quadratic pion scalar radius, \\la r^2\\ra^\\pi_s, plays an important role\nfor present precise determinations of \\pi\\pi scattering. Recently, Yndur\\'ain,\nusing an Omn\\`es representation of the null isospin(I) non-strange pion scalar\nform factor, obtains \\la r^2\\ra^\\pi_s=0.75\\pm 0.07 fm^2. This value is larger\nthan the one calculated by solving the corresponding Muskhelishvili-Omn\\`es\nequations, \\la r^2\\ra^\\pi_s=0.61\\pm 0.04 fm^2. A large discrepancy between both\nvalues, given the precision, then results. We reanalyze Yndur\\'ain's method and\nshow that by imposing continuity of the resulting pion scalar form factor under\ntiny changes in the input \\pi\\pi phase shifts, a zero in the form factor for\nsome S-wave I=0 T-matrices is then required. Once this is accounted for, the\nresulting value is \\la r^2\\ra_s^\\pi=0.65\\pm 0.05 fm^2. The main source of error\nin our determination is present experimental uncertainties in low energy S-wave\nI=0 \\pi\\pi phase shifts. Another important contribution to our error is the not\nyet settled asymptotic behaviour of the phase of the scalar form factor from\nQCD.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 17:06:06 GMT" },
+        { "version": "v2", "created": "Wed, 25 Apr 2007 11:14:41 GMT" }
+      ],
+      "update_date": "2008-11-26",
+      "authors_parsed": [
+        ["Oller", "Jose A.", ""],
+        ["Roca", "Luis", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0040",
+      "submitter": "Mihai Popa",
+      "authors": "Mihai Popa",
+      "title": "Multilinear function series in conditionally free probability with\n  amalgamation",
+      "comments": "Final version, published",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "math.OA math.FA",
+      "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "summary": "  As in the cases of freeness and monotonic independence, the notion of\nconditional freeness is meaningful when complex-valued states are replaced by\npositive conditional expectations. In this framework, the paper presents\nseveral positivity results, a version of the central limit theorem and an\nanalogue of the conditionally free R-transform constructed by means of\nmultilinear function series.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 17:05:04 GMT" },
+        { "version": "v2", "created": "Wed, 18 Apr 2007 23:00:25 GMT" },
+        { "version": "v3", "created": "Fri, 5 Sep 2008 03:11:45 GMT" }
+      ],
+      "update_date": "2008-09-05",
+      "authors_parsed": [["Popa", "Mihai", ""]]
+    },
+    {
+      "arxiv_id": "0704.0041",
+      "submitter": "Debashish Goswami",
+      "authors": "Debashish Goswami",
+      "title": "Quantum Group of Isometries in Classical and Noncommutative Geometry",
+      "comments": "improvements: (i) more general approach through quantum families of\n  isometries, following Woronowicz and Soltan's ideas; (ii) construction of\n  equivaraint spectral triples. also some minor changes. Improved and enlarged\n  version of ICTP preprint IC/2007/017",
+      "journal-ref": null,
+      "doi": "10.1007/s00220-008-0461-1",
+      "report-no": null,
+      "categories": "math.QA math-ph math.MP",
+      "license": null,
+      "summary": "  We formulate a quantum generalization of the notion of the group of\nRiemannian isometries for a compact Riemannian manifold, by introducing a\nnatural notion of smooth and isometric action by a compact quantum group on a\nclassical or noncommutative manifold described by spectral triples, and then\nproving the existence of a universal object (called the quantum isometry group)\nin the category of compact quantum groups acting smoothly and isometrically on\na given (possibly noncommutative) manifold satisfying certain regularity\nassumptions. In fact, we identify the quantum isometry group with the universal\nobject in a bigger category, namely the category of `quantum families of smooth\nisometries', defined along the line of Woronowicz and Soltan. We also construct\na spectral triple on the Hilbert space of forms on a noncommutative manifold\nwhich is equivariant with respect to a natural unitary representation of the\nquantum isometry group. We give explicit description of quantum isometry groups\nof commutative and noncommutative tori, and in this context, obtain the quantum\ndouble torus defined in \\cite{hajac} as the universal quantum group of\nholomorphic isometries of the noncommutative torus.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 21:04:54 GMT" },
+        { "version": "v2", "created": "Tue, 10 Apr 2007 00:09:57 GMT" },
+        { "version": "v3", "created": "Mon, 23 Jul 2007 19:24:43 GMT" },
+        { "version": "v4", "created": "Fri, 26 Oct 2007 06:15:33 GMT" }
+      ],
+      "update_date": "2009-11-13",
+      "authors_parsed": [["Goswami", "Debashish", ""]]
+    },
+    {
+      "arxiv_id": "0704.0043",
+      "submitter": "Alexander Gorban",
+      "authors": "R.A. Brownlee, A.N. Gorban, J. Levesley",
+      "title": "Nonequilibrium entropy limiters in lattice Boltzmann methods",
+      "comments": "30 pages, 9 figures, 1 table",
+      "journal-ref": "Physica A, V. 387, Issues 2-3 (2008), Pages 385-406",
+      "doi": "10.1016/j.physa.2007.09.031",
+      "report-no": null,
+      "categories": "cond-mat.stat-mech cond-mat.mtrl-sci",
+      "license": null,
+      "summary": "  We construct a system of nonequilibrium entropy limiters for the lattice\nBoltzmann methods (LBM). These limiters erase spurious oscillations without\nblurring of shocks, and do not affect smooth solutions. In general, they do the\nsame work for LBM as flux limiters do for finite differences, finite volumes\nand finite elements methods, but for LBM the main idea behind the construction\nof nonequilibrium entropy limiter schemes is to transform a field of a scalar\nquantity - nonequilibrium entropy. There are two families of limiters: (i)\nbased on restriction of nonequilibrium entropy (entropy \"trimming\") and (ii)\nbased on filtering of nonequilibrium entropy (entropy filtering). The physical\nproperties of LBM provide some additional benefits: the control of entropy\nproduction and accurate estimate of introduced artificial dissipation are\npossible. The constructed limiters are tested on classical numerical examples:\n1D athermal shock tubes with an initial density ratio 1:2 and the 2D lid-driven\ncavity for Reynolds numbers Re between 2000 and 7500 on a coarse 100*100 grid.\nAll limiter constructions are applicable for both entropic and non-entropic\nquasiequilibria.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 17:31:12 GMT" }
+      ],
+      "update_date": "2007-11-19",
+      "authors_parsed": [
+        ["Brownlee", "R. A.", ""],
+        ["Gorban", "A. N.", ""],
+        ["Levesley", "J.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0044",
+      "submitter": "Alexander Schekochihin",
+      "authors": "A. A. Schekochihin (Oxford), S. C. Cowley (Culham), W. Dorland\n  (Maryland), G. W. Hammett (Princeton), G. G. Howes (Iowa), E. Quataert\n  (Berkeley), T. Tatsuno (Maryland)",
+      "title": "Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in\n  magnetized weakly collisional plasmas",
+      "comments": "aastex using emulateapj, 65 pages, 10 figures; replaced to match\n  published version",
+      "journal-ref": "ApJS 182, 310 (2009)",
+      "doi": "10.1088/0067-0049/182/1/310",
+      "report-no": null,
+      "categories": "astro-ph nlin.CD physics.plasm-ph physics.space-ph",
+      "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "summary": "  We present a theoretical framework for plasma turbulence in astrophysical\nplasmas (solar wind, interstellar medium, galaxy clusters, accretion disks).\nThe key assumptions are that the turbulence is anisotropic with respect to the\nmean magnetic field and frequencies are low compared to the ion cyclotron\nfrequency. The energy injected at the outer scale scale has to be converted\ninto heat, which ultimately cannot be done without collisions. A KINETIC\nCASCADE develops that brings the energy to collisional scales both in space and\nvelocity. Its nature depends on the physics of plasma fluctuations. In each of\nthe physically distinct scale ranges, the kinetic problem is systematically\nreduced to a more tractable set of equations. In the \"inertial range\" above the\nion gyroscale, the kinetic cascade splits into a cascade of Alfvenic\nfluctuations, which are governed by the RMHD equations at both the collisional\nand collisionless scales, and a passive cascade of compressive fluctuations,\nwhich obey a linear kinetic equation along the moving field lines associated\nwith the Alfvenic component. In the \"dissipation range\" between the ion and\nelectron gyroscales, there are again two cascades: the kinetic-Alfven-wave\n(KAW) cascade governed by two fluid-like Electron RMHD equations and a passive\nphase-space cascade of ion entropy fluctuations. The latter cascade brings the\nenergy of the inertial-range fluctuations that was damped by collisionless\nwave-particle interaction at the ion gyroscale to collisional scales in the\nphase space and leads to ion heating. The KAW energy is similarly damped at the\nelectron gyroscale and converted into electron heat. Kolmogorov-style scaling\nrelations are derived for these cascades. Astrophysical and space-physical\napplications are discussed in detail.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 17:47:54 GMT" },
+        { "version": "v2", "created": "Sat, 24 May 2008 19:38:45 GMT" },
+        { "version": "v3", "created": "Sat, 24 Jan 2009 19:05:36 GMT" },
+        { "version": "v4", "created": "Sat, 9 May 2009 19:26:10 GMT" }
+      ],
+      "update_date": "2015-05-13",
+      "authors_parsed": [
+        ["Schekochihin", "A. A.", "", "Oxford"],
+        ["Cowley", "S. C.", "", "Culham"],
+        ["Dorland", "W.", "", "Maryland"],
+        ["Hammett", "G. W.", "", "Princeton"],
+        ["Howes", "G. G.", "", "Iowa"],
+        ["Quataert", "E.", "", "Berkeley"],
+        ["Tatsuno", "T.", "", "Maryland"]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0045",
+      "submitter": "A. M. Kamchatnov",
+      "authors": "G.A. El, R.H.J. Grimshaw, A.M. Kamchatnov",
+      "title": "Evolution of solitary waves and undular bores in shallow-water flows\n  over a gradual slope with bottom friction",
+      "comments": "accepted for publication in J. Fluid Mech.",
+      "journal-ref": "J. Fluid Mech. 585, 213-244 (2007)",
+      "doi": "10.1017/S0022112007006817",
+      "report-no": null,
+      "categories": "nlin.PS nlin.SI",
+      "license": null,
+      "summary": "  This paper considers the propagation of shallow-water solitary and nonlinear\nperiodic waves over a gradual slope with bottom friction in the framework of a\nvariable-coefficient Korteweg-de Vries equation. We use the Whitham averaging\nmethod, using a recent development of this theory for perturbed integrable\nequations. This general approach enables us not only to improve known results\non the adiabatic evolution of isolated solitary waves and periodic wave trains\nin the presence of variable topography and bottom friction, modeled by the\nChezy law, but also importantly, to study the effects of these factors on the\npropagation of undular bores, which are essentially unsteady in the system\nunder consideration. In particular, it is shown that the combined action of\nvariable topography and bottom friction generally imposes certain global\nrestrictions on the undular bore propagation so that the evolution of the\nleading solitary wave can be substantially different from that of an isolated\nsolitary wave with the same initial amplitude. This non-local effect is due to\nnonlinear wave interactions within the undular bore and can lead to an\nadditional solitary wave amplitude growth, which cannot be predicted in the\nframework of the traditional adiabatic approach to the propagation of solitary\nwaves in slowly varying media.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 18:09:02 GMT" }
+      ],
+      "update_date": "2007-09-23",
+      "authors_parsed": [
+        ["El", "G. A.", ""],
+        ["Grimshaw", "R. H. J.", ""],
+        ["Kamchatnov", "A. M.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0046",
+      "submitter": "Denes Petz",
+      "authors": "I. Csiszar, F. Hiai and D. Petz",
+      "title": "A limit relation for entropy and channel capacity per unit cost",
+      "comments": "LATEX file, 11 pages",
+      "journal-ref": "J. Math. Phys. 48(2007), 092102.",
+      "doi": "10.1063/1.2779138",
+      "report-no": null,
+      "categories": "quant-ph cs.IT math.IT",
+      "license": null,
+      "summary": "  In a quantum mechanical model, Diosi, Feldmann and Kosloff arrived at a\nconjecture stating that the limit of the entropy of certain mixtures is the\nrelative entropy as system size goes to infinity. The conjecture is proven in\nthis paper for density matrices. The first proof is analytic and uses the\nquantum law of large numbers. The second one clarifies the relation to channel\ncapacity per unit cost for classical-quantum channels. Both proofs lead to\ngeneralization of the conjecture.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 16:37:36 GMT" }
+      ],
+      "update_date": "2009-11-13",
+      "authors_parsed": [
+        ["Csiszar", "I.", ""],
+        ["Hiai", "F.", ""],
+        ["Petz", "D.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0047",
+      "submitter": "Igor Grabec",
+      "authors": "T. Kosel and I. Grabec",
+      "title": "Intelligent location of simultaneously active acoustic emission sources:\n  Part I",
+      "comments": "5 pages, 5 eps figures, uses IEEEtran.cls",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "cs.NE cs.AI",
+      "license": null,
+      "summary": "  The intelligent acoustic emission locator is described in Part I, while Part\nII discusses blind source separation, time delay estimation and location of two\nsimultaneously active continuous acoustic emission sources.\n  The location of acoustic emission on complicated aircraft frame structures is\na difficult problem of non-destructive testing. This article describes an\nintelligent acoustic emission source locator. The intelligent locator comprises\na sensor antenna and a general regression neural network, which solves the\nlocation problem based on learning from examples. Locator performance was\ntested on different test specimens. Tests have shown that the accuracy of\nlocation depends on sound velocity and attenuation in the specimen, the\ndimensions of the tested area, and the properties of stored data. The location\naccuracy achieved by the intelligent locator is comparable to that obtained by\nthe conventional triangulation method, while the applicability of the\nintelligent locator is more general since analysis of sonic ray paths is\navoided. This is a promising method for non-destructive testing of aircraft\nframe structures by the acoustic emission method.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 13:06:50 GMT" }
+      ],
+      "update_date": "2009-09-29",
+      "authors_parsed": [
+        ["Kosel", "T.", ""],
+        ["Grabec", "I.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0048",
+      "submitter": "Alexander Stroeer",
+      "authors": "Alexander Stroeer, John Veitch, Christian Roever, Ed Bloomer, James\n  Clark, Nelson Christensen, Martin Hendry, Chris Messenger, Renate Meyer,\n  Matthew Pitkin, Jennifer Toher, Richard Umstaetter, Alberto Vecchio and\n  Graham Woan",
+      "title": "Inference on white dwarf binary systems using the first round Mock LISA\n  Data Challenges data sets",
+      "comments": "GWDAW-11 proceeding, submitted to CQG, 10 pages, 3 figures, 1 table;\n  revised values in table",
+      "journal-ref": "Class.Quant.Grav.24:S541-S550,2007",
+      "doi": "10.1088/0264-9381/24/19/S17",
+      "report-no": null,
+      "categories": "gr-qc astro-ph",
+      "license": null,
+      "summary": "  We report on the analysis of selected single source data sets from the first\nround of the Mock LISA Data Challenges (MLDC) for white dwarf binaries. We\nimplemented an end-to-end pipeline consisting of a grid-based coherent\npre-processing unit for signal detection, and an automatic Markov Chain Monte\nCarlo post-processing unit for signal evaluation. We demonstrate that signal\ndetection with our coherent approach is secure and accurate, and is increased\nin accuracy and supplemented with additional information on the signal\nparameters by our Markov Chain Monte Carlo approach. We also demonstrate that\nthe Markov Chain Monte Carlo routine is additionally able to determine\naccurately the noise level in the frequency window of interest.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 19:17:47 GMT" },
+        { "version": "v2", "created": "Tue, 3 Apr 2007 22:26:37 GMT" }
+      ],
+      "update_date": "2008-11-26",
+      "authors_parsed": [
+        ["Stroeer", "Alexander", ""],
+        ["Veitch", "John", ""],
+        ["Roever", "Christian", ""],
+        ["Bloomer", "Ed", ""],
+        ["Clark", "James", ""],
+        ["Christensen", "Nelson", ""],
+        ["Hendry", "Martin", ""],
+        ["Messenger", "Chris", ""],
+        ["Meyer", "Renate", ""],
+        ["Pitkin", "Matthew", ""],
+        ["Toher", "Jennifer", ""],
+        ["Umstaetter", "Richard", ""],
+        ["Vecchio", "Alberto", ""],
+        ["Woan", "Graham", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0049",
+      "submitter": "Mikkel {\\O}bro",
+      "authors": "Mikkel {\\O}bro",
+      "title": "An algorithm for the classification of smooth Fano polytopes",
+      "comments": "17 pages.",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "math.CO",
+      "license": null,
+      "summary": "  We present an algorithm that produces the classification list of smooth Fano\nd-polytopes for any given d. The input of the algorithm is a single number,\nnamely the positive integer d. The algorithm has been used to classify smooth\nFano d-polytopes for d<=7. There are 7622 isomorphism classes of smooth Fano\n6-polytopes and 72256 isomorphism classes of smooth Fano 7-polytopes.\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 09:23:25 GMT" }
+      ],
+      "update_date": "2007-05-23",
+      "authors_parsed": [["\u00d8bro", "Mikkel", ""]]
+    },
+    {
+      "arxiv_id": "0704.0050",
+      "submitter": "Igor Grabec",
+      "authors": "T. Kosel and I. Grabec",
+      "title": "Intelligent location of simultaneously active acoustic emission sources:\n  Part II",
+      "comments": "5 pages, 7 eps figures, uses IEEEtran.cls",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "cs.NE cs.AI",
+      "license": null,
+      "summary": "  Part I describes an intelligent acoustic emission locator, while Part II\ndiscusses blind source separation, time delay estimation and location of two\ncontinuous acoustic emission sources.\n  Acoustic emission (AE) analysis is used for characterization and location of\ndeveloping defects in materials. AE sources often generate a mixture of various\nstatistically independent signals. A difficult problem of AE analysis is\nseparation and characterization of signal components when the signals from\nvarious sources and the mode of mixing are unknown. Recently, blind source\nseparation (BSS) by independent component analysis (ICA) has been used to solve\nthese problems. The purpose of this paper is to demonstrate the applicability\nof ICA to locate two independent simultaneously active acoustic emission\nsources on an aluminum band specimen. The method is promising for\nnon-destructive testing of aircraft frame structures by acoustic emission\nanalysis.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 18:53:13 GMT" }
+      ],
+      "update_date": "2007-05-23",
+      "authors_parsed": [
+        ["Kosel", "T.", ""],
+        ["Grabec", "I.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0051",
+      "submitter": "Scott M. Cohen",
+      "authors": "Scott M. Cohen",
+      "title": "Visualizing Teleportation",
+      "comments": "This is a \"teaching\" article aimed at making teleportation\n  understandable to undergraduate physics majors (and possibly others). Version\n  2 has previous appendix moved to early sections, and more clearly states aim\n  is to present a way physicists can explain teleportation to non-scientists",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "physics.ed-ph quant-ph",
+      "license": null,
+      "summary": "  A novel way of picturing the processing of quantum information is described,\nallowing a direct visualization of teleportation of quantum states and\nproviding a simple and intuitive understanding of this fascinating phenomenon.\nThe discussion is aimed at providing physicists a method of explaining\nteleportation to non-scientists. The basic ideas of quantum physics are first\nexplained in lay terms, after which these ideas are used with a graphical\ndescription, out of which teleportation arises naturally.\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 18:17:41 GMT" },
+        { "version": "v2", "created": "Tue, 13 May 2008 23:16:22 GMT" }
+      ],
+      "update_date": "2008-05-14",
+      "authors_parsed": [["Cohen", "Scott M.", ""]]
+    },
+    {
+      "arxiv_id": "0704.0052",
+      "submitter": "William Gordon Ritter",
+      "authors": "Arthur Jaffe (1) and Gordon Ritter (1) ((1) Harvard University)",
+      "title": "Quantum Field Theory on Curved Backgrounds. II. Spacetime Symmetries",
+      "comments": "18 pages, 1 figure",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "hep-th",
+      "license": null,
+      "summary": "  We study space-time symmetries in scalar quantum field theory (including\ninteracting theories) on static space-times. We first consider Euclidean\nquantum field theory on a static Riemannian manifold, and show that the\nisometry group is generated by one-parameter subgroups which have either\nself-adjoint or unitary quantizations. We analytically continue the\nself-adjoint semigroups to one-parameter unitary groups, and thus construct a\nunitary representation of the isometry group of the associated Lorentzian\nmanifold. The method is illustrated for the example of hyperbolic space, whose\nLorentzian continuation is Anti-de Sitter space.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 20:07:39 GMT" }
+      ],
+      "update_date": "2007-05-23",
+      "authors_parsed": [
+        ["Jaffe", "Arthur", "", "Harvard University"],
+        ["Ritter", "Gordon", "", "Harvard University"]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0053",
+      "submitter": "Nabil Youssef L",
+      "authors": "Nabil L. Youssef, S. H. Abed and A. Soleiman",
+      "title": "A Global Approach to the Theory of Special Finsler Manifolds",
+      "comments": "32 pages, LaTeX file, summary and Introduction modified. Journal-ref\n  removed (it was entered by mistake)",
+      "journal-ref": "J. Math. Kyoto Univ., 48 (2008), 857-893.",
+      "doi": null,
+      "report-no": null,
+      "categories": "math.DG gr-qc",
+      "license": null,
+      "summary": "  The aim of the present paper is to provide a global presentation of the\ntheory of special Finsler manifolds. We introduce and investigate globally (or\nintrinsically, free from local coordinates) many of the most important and most\ncommonly used special Finsler manifolds: locally Minkowskian, Berwald,\nLandesberg, general Landesberg, $P$-reducible, $C$-reducible,\nsemi-$C$-reducible, quasi-$C$-reducible, $P^{*}$-Finsler, $C^{h}$-recurrent,\n$C^{v}$-recurrent, $C^{0}$-recurrent, $S^{v}$-recurrent, $S^{v}$-recurrent of\nthe second order, $C_{2}$-like, $S_{3}$-like, $S_{4}$-like, $P_{2}$-like,\n$R_{3}$-like, $P$-symmetric, $h$-isotropic, of scalar curvature, of constant\ncurvature, of $p$-scalar curvature, of $s$-$ps$-curvature. The global\ndefinitions of these special Finsler manifolds are introduced. Various\nrelationships between the different types of the considered special Finsler\nmanifolds are found. Many local results, known in the literature, are proved\nglobally and several new results are obtained. As a by-product, interesting\nidentities and properties concerning the torsion tensor fields and the\ncurvature tensor fields are deduced. Although our investigation is entirely\nglobal, we provide; for comparison reasons, an appendix presenting a local\ncounterpart of our global approach and the local definitions of the special\nFinsler spaces considered.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 20:14:41 GMT" },
+        { "version": "v2", "created": "Sun, 8 Apr 2007 09:36:13 GMT" },
+        { "version": "v3", "created": "Thu, 6 Sep 2007 22:11:34 GMT" }
+      ],
+      "update_date": "2009-04-20",
+      "authors_parsed": [
+        ["Youssef", "Nabil L.", ""],
+        ["Abed", "S. H.", ""],
+        ["Soleiman", "A.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0054",
+      "submitter": "Alberto Torchinsky",
+      "authors": "Wael Abu-Shammala and Alberto Torchinsky",
+      "title": "The Hardy-Lorentz Spaces $H^{p,q}(R^n)$",
+      "comments": null,
+      "journal-ref": "Studia Math. 182 (2007) no. 3, 283-294",
+      "doi": null,
+      "report-no": null,
+      "categories": "math.CA math.FA",
+      "license": null,
+      "summary": "  In this paper we consider the Hardy-Lorentz spaces $H^{p,q}(R^n)$, with\n$0<p\\le 1$, $0<q\\le \\infty$. We discuss the atomic decomposition of the\nelements in these spaces, their interpolation properties, and the behavior of\nsingular integrals and other operators acting on them.\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 18:14:21 GMT" }
+      ],
+      "update_date": "2013-10-15",
+      "authors_parsed": [
+        ["Abu-Shammala", "Wael", ""],
+        ["Torchinsky", "Alberto", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0055",
+      "submitter": "Per Hyldgaard",
+      "authors": "Eleni Ziambaras, Jesper Kleis, Elsebeth Schroder, and Per Hyldgaard",
+      "title": "Potassium intercalation in graphite: A van der Waals density-functional\n  study",
+      "comments": "10 pages, 5 figures",
+      "journal-ref": null,
+      "doi": "10.1103/PhysRevB.76.155425",
+      "report-no": null,
+      "categories": "cond-mat.soft cond-mat.mtrl-sci",
+      "license": null,
+      "summary": "  Potassium intercalation in graphite is investigated by first-principles\ntheory. The bonding in the potassium-graphite compound is reasonably well\naccounted for by traditional semilocal density functional theory (DFT)\ncalculations. However, to investigate the intercalate formation energy from\npure potassium atoms and graphite requires use of a description of the graphite\ninterlayer binding and thus a consistent account of the nonlocal dispersive\ninteractions. This is included seamlessly with ordinary DFT by a van der Waals\ndensity functional (vdW-DF) approach [Phys. Rev. Lett. 92, 246401 (2004)]. The\nuse of the vdW-DF is found to stabilize the graphite crystal, with crystal\nparameters in fair agreement with experiments. For graphite and\npotassium-intercalated graphite structural parameters such as binding\nseparation, layer binding energy, formation energy, and bulk modulus are\nreported. Also the adsorption and sub-surface potassium absorption energies are\nreported. The vdW-DF description, compared with the traditional semilocal\napproach, is found to weakly soften the elastic response.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 20:46:31 GMT" }
+      ],
+      "update_date": "2009-11-13",
+      "authors_parsed": [
+        ["Ziambaras", "Eleni", ""],
+        ["Kleis", "Jesper", ""],
+        ["Schroder", "Elsebeth", ""],
+        ["Hyldgaard", "Per", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0056",
+      "submitter": "Franz Saija",
+      "authors": "Santi Prestipino and Franz Saija",
+      "title": "Phase diagram of Gaussian-core nematics",
+      "comments": "15 pages, 1 table, 10 figures, submitted on J. Chem. Phys.",
+      "journal-ref": "J. Chem. Phys. 126, 194902 (2007)",
+      "doi": "10.1063/1.2737041",
+      "report-no": null,
+      "categories": "cond-mat.soft cond-mat.mtrl-sci",
+      "license": null,
+      "summary": "  We study a simple model of a nematic liquid crystal made of parallel\nellipsoidal particles interacting via a repulsive Gaussian law. After\nidentifying the relevant solid phases of the system through a careful\nzero-temperature scrutiny of as many as eleven candidate crystal structures, we\ndetermine the melting temperature for various pressure values, also with the\nhelp of exact free energy calculations. Among the prominent features of this\nmodel are pressure-driven reentrant melting and the stabilization of a columnar\nphase for intermediate temperatures.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 21:51:45 GMT" }
+      ],
+      "update_date": "2009-11-13",
+      "authors_parsed": [
+        ["Prestipino", "Santi", ""],
+        ["Saija", "Franz", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0057",
+      "submitter": "Philipp Werner",
+      "authors": "Philipp Werner and Andrew J. Millis",
+      "title": "High-spin to low-spin and orbital polarization transitions in\n  multiorbital Mott systems",
+      "comments": "Published version",
+      "journal-ref": "Phys. Rev. Lett. 99, 126405 (2007)",
+      "doi": "10.1103/PhysRevLett.99.126405",
+      "report-no": null,
+      "categories": "cond-mat.str-el",
+      "license": null,
+      "summary": "  We study the interplay of crystal field splitting and Hund coupling in a\ntwo-orbital model which captures the essential physics of systems with two\nelectrons or holes in the e_g shell. We use single site dynamical mean field\ntheory with a recently developed impurity solver which is able to access strong\ncouplings and low temperatures. The fillings of the orbitals and the location\nof phase boundaries are computed as a function of Coulomb repulsion, exchange\ncoupling and crystal field splitting. We find that the Hund coupling can drive\nthe system into a novel Mott insulating phase with vanishing orbital\nsusceptibility. Away from half-filling, the crystal field splitting can induce\nan orbital selective Mott state.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 19:58:35 GMT" },
+        { "version": "v2", "created": "Wed, 19 Sep 2007 18:33:51 GMT" }
+      ],
+      "update_date": "2009-11-13",
+      "authors_parsed": [
+        ["Werner", "Philipp", ""],
+        ["Millis", "Andrew J.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0058",
+      "submitter": "Frank Tipler",
+      "authors": "Frank J. Tipler",
+      "title": "Intelligent Life in Cosmology",
+      "comments": null,
+      "journal-ref": "International Journal of Astrobiology 2 (2003) 141-148",
+      "doi": "10.1017/S1473550403001526",
+      "report-no": null,
+      "categories": "physics.pop-ph",
+      "license": null,
+      "summary": "  I shall present three arguments for the proposition that intelligent life is\nvery rare in the universe. First, I shall summarize the consensus opinion of\nthe founders of the Modern Synthesis (Simpson, Dobzhanski, and Mayr) that the\nevolution of intelligent life is exceedingly improbable. Second, I shall\ndevelop the Fermi Paradox: if they existed they'd be here. Third, I shall show\nthat if intelligent life were too common, it would use up all available\nresources and die out. But I shall show that the quantum mechanical principle\nof unitarity (actually a form of teleology!) requires intelligent life to\nsurvive to the end of time. Finally, I shall argue that, if the universe is\nindeed accelerating, then survival to the end of time requires that intelligent\nlife, though rare, to have evolved several times in the visible universe. I\nshall argue that the acceleration is a consequence of the excess of matter over\nantimatter in the universe. I shall suggest experiments to test these claims.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 21:59:26 GMT" }
+      ],
+      "update_date": "2015-05-13",
+      "authors_parsed": [["Tipler", "Frank J.", ""]]
+    },
+    {
+      "arxiv_id": "0704.0059",
+      "submitter": "Thomas Beatty",
+      "authors": "T. G. Beatty, J. M. Fernandez, D. W. Latham, G. A. Bakos, G. Kovacs,\n  R. W. Noyes, R. P. Stefanik, G. Torres, M. E. Everett, C. W. Hergenrother",
+      "title": "The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined\n  Eclipsing Binary HAT-TR-205-013",
+      "comments": "18 pages, 9 tables and 6 figures; accepted by ApJ. Added a reference\n  and corrected a typo",
+      "journal-ref": "Astrophys.J.663:573-582,2007",
+      "doi": "10.1086/518413",
+      "report-no": null,
+      "categories": "astro-ph",
+      "license": null,
+      "summary": "  We derive masses and radii for both components in the single-lined eclipsing\nbinary HAT-TR-205-013, which consists of a F7V primary and a late M-dwarf\nsecondary. The system's period is short, $P=2.230736 \\pm 0.000010$ days, with\nan orbit indistinguishable from circular, $e=0.012 \\pm 0.021$. We demonstrate\ngenerally that the surface gravity of the secondary star in a single-lined\nbinary undergoing total eclipses can be derived from characteristics of the\nlight curve and spectroscopic orbit. This constrains the secondary to a unique\nline in the mass-radius diagram with $M/R^2$ = constant. For HAT-TR-205-013, we\nassume the orbit has been tidally circularized, and that the primary's rotation\nhas been synchronized and aligned with the orbital axis. Our observed line\nbroadening, $V_{\\rm rot} \\sin i_{\\rm rot} = 28.9 \\pm 1.0$ \\kms, gives a primary\nradius of $R_{\\rm A} = 1.28 \\pm 0.04$ \\rsun. Our light curve analysis leads to\nthe radius of the secondary, $R_{\\rm B} = 0.167 \\pm 0.006$ \\rsun, and the\nsemimajor axis of the orbit, $a = 7.54 \\pm 0.30 \\rsun = 0.0351 \\pm 0.0014$ AU.\nOur single-lined spectroscopic orbit and the semimajor axis then yield the\nindividual masses, $M_{\\rm B} = 0.124 \\pm 0.010$ \\msun and $M_{\\rm A} = 1.04\n\\pm 0.13$ \\msun. Our result for HAT-TR-205-013 B lies above the theoretical\nmass-radius models from the Lyon group, consistent with results from\ndouble-lined eclipsing binaries. The method we describe offers the opportunity\nto study the very low end of the stellar mass-radius relation.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 22:16:50 GMT" },
+        { "version": "v2", "created": "Mon, 9 Apr 2007 15:50:24 GMT" }
+      ],
+      "update_date": "2009-06-23",
+      "authors_parsed": [
+        ["Beatty", "T. G.", ""],
+        ["Fernandez", "J. M.", ""],
+        ["Latham", "D. W.", ""],
+        ["Bakos", "G. A.", ""],
+        ["Kovacs", "G.", ""],
+        ["Noyes", "R. W.", ""],
+        ["Stefanik", "R. P.", ""],
+        ["Torres", "G.", ""],
+        ["Everett", "M. E.", ""],
+        ["Hergenrother", "C. W.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0060",
+      "submitter": "Carlos Bertulani",
+      "authors": "C.A. Bertulani, G. Cardella, M. De Napoli, G. Raciti, and E. Rapisarda",
+      "title": "Coulomb excitation of unstable nuclei at intermediate energies",
+      "comments": "12 pages, 2 figures, accepted for publication in Phys. Lett. B",
+      "journal-ref": "Phys.Lett.B650:233-238,2007",
+      "doi": "10.1016/j.physletb.2007.05.029",
+      "report-no": null,
+      "categories": "nucl-th",
+      "license": null,
+      "summary": "  We investigate the Coulomb excitation of low-lying states of unstable nuclei\nin intermediate energy collisions ($E_{lab}\\sim10-500$ MeV/nucleon). It is\nshown that the cross sections for the $E1$ and $E2$ transitions are larger at\nlower energies, much less than 10 MeV/nucleon. Retardation effects and Coulomb\ndistortion are found to be both relevant for energies as low as 10 MeV/nucleon\nand as high as 500 MeV/nucleon. Implications for studies at radioactive beam\nfacilities are discussed.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 22:24:53 GMT" },
+        { "version": "v2", "created": "Mon, 21 May 2007 16:23:27 GMT" }
+      ],
+      "update_date": "2008-11-26",
+      "authors_parsed": [
+        ["Bertulani", "C. A.", ""],
+        ["Cardella", "G.", ""],
+        ["De Napoli", "M.", ""],
+        ["Raciti", "G.", ""],
+        ["Rapisarda", "E.", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0061",
+      "submitter": "Boris Rubin",
+      "authors": "Boris Rubin",
+      "title": "Intersection Bodies and Generalized Cosine Transforms",
+      "comments": "38 pages",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "math.FA",
+      "license": null,
+      "summary": "  Intersection bodies represent a remarkable class of geometric objects\nassociated with sections of star bodies and invoking\n  Radon transforms, generalized cosine transforms, and the relevant Fourier\nanalysis. The main focus of this article is interrelation between generalized\ncosine transforms of different kinds in the context of their application to\ninvestigation of a certain family of intersection bodies, which we call\n$\\lam$-intersection bodies. The latter include $k$-intersection bodies (in the\nsense of A. Koldobsky) and unit balls of finite-dimensional subspaces of\n$L_p$-spaces. In particular, we show that restrictions onto lower dimensional\nsubspaces of the spherical Radon transforms and the generalized cosine\ntransforms preserve their integral-geometric structure. We apply this result to\nthe study of sections of $\\lam$-intersection bodies. New characterizations of\nthis class of bodies are obtained and examples are given. We also review some\nknown facts and give them new proofs.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 22:45:05 GMT" },
+        { "version": "v2", "created": "Thu, 3 May 2007 18:03:34 GMT" }
+      ],
+      "update_date": "2007-05-23",
+      "authors_parsed": [["Rubin", "Boris", ""]]
+    },
+    {
+      "arxiv_id": "0704.0062",
+      "submitter": "Tom\\'a\\v{s} Vina\\v{r}",
+      "authors": "Rastislav \\v{S}r\\'amek, Bro\\v{n}a Brejov\\'a, Tom\\'a\\v{s} Vina\\v{r}",
+      "title": "On-line Viterbi Algorithm and Its Relationship to Random Walks",
+      "comments": null,
+      "journal-ref": "Algorithms in Bioinformatics: 7th International Workshop (WABI),\n  4645 volume of Lecture Notes in Computer Science, pp. 240-251, Philadelphia,\n  PA, USA, September 2007. Springer",
+      "doi": "10.1007/978-3-540-74126-8_23",
+      "report-no": null,
+      "categories": "cs.DS",
+      "license": null,
+      "summary": "  In this paper, we introduce the on-line Viterbi algorithm for decoding hidden\nMarkov models (HMMs) in much smaller than linear space. Our analysis on\ntwo-state HMMs suggests that the expected maximum memory used to decode\nsequence of length $n$ with $m$-state HMM can be as low as $\\Theta(m\\log n)$,\nwithout a significant slow-down compared to the classical Viterbi algorithm.\nClassical Viterbi algorithm requires $O(mn)$ space, which is impractical for\nanalysis of long DNA sequences (such as complete human genome chromosomes) and\nfor continuous data streams. We also experimentally demonstrate the performance\nof the on-line Viterbi algorithm on a simple HMM for gene finding on both\nsimulated and real DNA sequences.\n",
+      "versions": [
+        { "version": "v1", "created": "Sat, 31 Mar 2007 23:52:33 GMT" }
+      ],
+      "update_date": "2010-01-25",
+      "authors_parsed": [
+        ["\u0160r\u00e1mek", "Rastislav", ""],
+        ["Brejov\u00e1", "Bro\u0148a", ""],
+        ["Vina\u0159", "Tom\u00e1\u0161", ""]
+      ]
+    },
+    {
+      "arxiv_id": "0704.0063",
+      "submitter": "Somnath Choudhury",
+      "authors": "Somnath Choudhury",
+      "title": "Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay",
+      "comments": null,
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "hep-ph",
+      "license": null,
+      "summary": "  Neutrinoless double beta decay is one of the most sensitive approaches in\nnon-accelerator particle physics to take us into a regime of physics beyond the\nstandard model. This article is a brief review of the experiments in search of\nneutrinoless double beta decay from 76Ge. Following a brief introduction of the\nprocess of double beta decay from 76Ge, the results of the very first\nexperiments IGEX and Heidelberg-Moscow which give indications of the existence\nof possible neutrinoless double beta decay mode has been reviewed. Then ongoing\nefforts to substantiate the early findings are presented and the Majorana\nexperiment as a future experimental approach which will allow a very detailed\nstudy of the neutrinoless decay mode is discussed.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 00:15:54 GMT" },
+        { "version": "v2", "created": "Tue, 3 Apr 2007 23:51:30 GMT" },
+        { "version": "v3", "created": "Fri, 27 Apr 2007 17:42:41 GMT" },
+        { "version": "v4", "created": "Wed, 12 Mar 2008 16:14:26 GMT" }
+      ],
+      "update_date": "2008-03-12",
+      "authors_parsed": [["Choudhury", "Somnath", ""]]
+    },
+    {
+      "arxiv_id": "0704.0064",
+      "submitter": "Rudra Prakash Malik",
+      "authors": "R. P. Malik (Bhu)",
+      "title": "Nilpotent symmetry invariance in the superfield formulation: the\n  (non-)Abelian 1-form gauge theories",
+      "comments": "LaTeX file, 19 pages, journal reference",
+      "journal-ref": "Int.J.Mod.Phys.A23:3685-3705,2008",
+      "doi": "10.1142/S0217751X08041591",
+      "report-no": null,
+      "categories": "hep-th",
+      "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "summary": "  We capture the off-shell as well as the on-shell nilpotent\nBecchi-Rouet-Stora-Tyutin (BRST) and anti-BRST symmetry invariance of the\nLagrangian densities of the four (3 + 1)-dimensional (4D) (non-)Abelian 1-form\ngauge theories within the framework of the superfield formalism. In particular,\nwe provide the geometrical interpretations for (i) the above nilpotent symmetry\ninvariance, and (ii) the above Lagrangian densities, in the language of the\nspecific quantities defined in the domain of the above superfield formalism.\nSome of the subtle points, connected with the 4D (non-)Abelian 1-form gauge\ntheories, are clarified within the framework of the above superfield formalism\nwhere the 4D ordinary gauge theories are considered on the (4, 2)-dimensional\nsupermanifold parametrized by the four spacetime coordinates x^\\mu (with \\mu =\n0, 1, 2, 3) and a pair of Grassmannian variables \\theta and \\bar\\theta. One of\nthe key results of our present investigation is a great deal of simplification\nin the geometrical understanding of the nilpotent (anti-)BRST symmetry\ninvariance.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 13:32:15 GMT" },
+        { "version": "v2", "created": "Thu, 3 May 2007 16:35:49 GMT" },
+        { "version": "v3", "created": "Thu, 6 Dec 2007 13:31:19 GMT" },
+        { "version": "v4", "created": "Thu, 5 Jun 2008 11:21:43 GMT" },
+        { "version": "v5", "created": "Fri, 24 Oct 2008 12:23:58 GMT" }
+      ],
+      "update_date": "2008-11-26",
+      "authors_parsed": [["Malik", "R. P.", "", "Bhu"]]
+    },
+    {
+      "arxiv_id": "0704.0065",
+      "submitter": "Alexander Molev",
+      "authors": "A. I. Molev",
+      "title": "Littlewood-Richardson polynomials",
+      "comments": "21 pages, reference to independent work of V. Kreiman was added",
+      "journal-ref": "J. Algebra 321 (2009), 3450-3468.",
+      "doi": null,
+      "report-no": null,
+      "categories": "math.AG math.CO",
+      "license": null,
+      "summary": "  We introduce a family of rings of symmetric functions depending on an\ninfinite sequence of parameters. A distinguished basis of such a ring is\ncomprised by analogues of the Schur functions. The corresponding structure\ncoefficients are polynomials in the parameters which we call the\nLittlewood-Richardson polynomials. We give a combinatorial rule for their\ncalculation by modifying an earlier result of B. Sagan and the author. The new\nrule provides a formula for these polynomials which is manifestly positive in\nthe sense of W. Graham. We apply this formula for the calculation of the\nproduct of equivariant Schubert classes on Grassmannians which implies a\nstability property of the structure coefficients. The first manifestly positive\nformula for such an expansion was given by A. Knutson and T. Tao by using\ncombinatorics of puzzles while the stability property was not apparent from\nthat formula. We also use the Littlewood-Richardson polynomials to describe the\nmultiplication rule in the algebra of the Casimir elements for the general\nlinear Lie algebra in the basis of the quantum immanants constructed by A.\nOkounkov and G. Olshanski.\n",
+      "versions": [
+        { "version": "v1", "created": "Mon, 2 Apr 2007 01:14:48 GMT" },
+        { "version": "v2", "created": "Mon, 16 Apr 2007 11:41:24 GMT" },
+        { "version": "v3", "created": "Mon, 16 Jul 2007 10:40:52 GMT" }
+      ],
+      "update_date": "2009-06-03",
+      "authors_parsed": [["Molev", "A. I.", ""]]
+    },
+    {
+      "arxiv_id": "0704.0066",
+      "submitter": "Bozhidar Zakhariev Iliev",
+      "authors": "Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,\n  Bulgarian Academy of Sciences, Sofia, Bulgaria)",
+      "title": "Lagrangian quantum field theory in momentum picture. IV. Commutation\n  relations for free fields",
+      "comments": "60 LaTeX pages. The packages AMS-LaTeX and amsfonts are required.\n  This paper is a continuation of the e-print E-prints No. hep-th/0402006, No.\n  hep-th/0405008 and No. hep-th/0505007. For related papers, visit the\n  \"publication\" pages at http://theo.inrne.bas.bg/~bozho/",
+      "journal-ref": null,
+      "doi": null,
+      "report-no": null,
+      "categories": "hep-th",
+      "license": null,
+      "summary": "  Possible (algebraic) commutation relations in the Lagrangian quantum theory\nof free (scalar, spinor and vector) fields are considered from mathematical\nview-point. As sources of these relations are employed the Heisenberg\nequations/relations for the dynamical variables and a specific condition for\nuniqueness of the operators of the dynamical variables (with respect to some\nclass of Lagrangians). The paracommutation relations or some their\ngeneralizations are pointed as the most general ones that entail the validity\nof all Heisenberg equations. The simultaneous fulfillment of the Heisenberg\nequations and the uniqueness requirement turn to be impossible. This problem is\nsolved via a redefinition of the dynamical variables, similar to the normal\nordering procedure and containing it as a special case. That implies\ncorresponding changes in the admissible commutation relations. The introduction\nof the concept of the vacuum makes narrow the class of the possible commutation\nrelations; in particular, the mentioned redefinition of the dynamical variables\nis reduced to normal ordering. As a last restriction on that class is imposed\nthe requirement for existing of an effective procedure for calculating vacuum\nmean values. The standard bilinear commutation relations are pointed as the\nonly known ones that satisfy all of the mentioned conditions and do not\ncontradict to the existing data.\n",
+      "versions": [
+        { "version": "v1", "created": "Sun, 1 Apr 2007 06:22:38 GMT" }
+      ],
+      "update_date": "2007-05-23",
+      "authors_parsed": [
+        [
+          "Iliev",
+          "Bozhidar Z.",
+          "",
+          "Institute for Nuclear Research and Nuclear Energy,\n  Bulgarian Academy of Sciences, Sofia, Bulgaria"
+        ]
+      ]
+    }
+  ]
+}
